@@ -31,7 +31,11 @@
 
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
-[Gates determined based on constitution file]
+- [ ] **AI-Native Development**: Is the feature designed to be implemented via spec-driven code generation?
+- [ ] **CLI-First Approach**: Does the plan prioritize a functional command-line interface?
+- [ ] **Modularity**: Is the proposed structure modular and prepared for future evolution?
+- [ ] **Accuracy & Reliability**: Does the plan ensure all behaviors align with the specification?
+- [ ] **Stateless Design**: Does the design adhere to stateless principles within memory constraints?
 
 ## Project Structure
 
